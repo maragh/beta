@@ -9,7 +9,7 @@ digicelControllers.controller('homeController', ['$scope', function ($scope){
 digicelControllers.controller('customerController', ['$scope', '$routeParams','$http','$location', function($scope, $routeParams, $http, $location){
     
     $scope.title = 'customer';
-    $scope.id = $routeParams.serviceId;
+//    $scope.id = $routeParams.serviceId;
     
 }]);
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++

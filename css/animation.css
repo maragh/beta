@@ -48,8 +48,8 @@
 
 .view-frame.ng-enter {
   -webkit-animation: 0.5s fade-in;
-  -moz-animation: 0.5s fade-in;
-  -o-animation: 0.5s fade-in;
+  -moz-animation: 0.5s fade-in;*/
+  -o-animation: 0.5s fade-in;*/
   animation: 0.5s fade-in;
   z-index: 100;
 }
@@ -88,4 +88,7 @@
   to { opacity: 0; }
 }
 
-/* don't forget about the vendor-prefixes! */
+
+
+
+
